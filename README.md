@@ -18,7 +18,15 @@ The open-source code repository for Cosmo X (An Underground Odyssey). Files and 
         
 ## Installation
         
-Download this repository to your local device by cloning it or some other method. You will want the folder titled "Cosmo X ...". Compress the folder into ZIP format using a 3rd party software and then rename the extension ".zip" to ".sb3" For example: "cosmo-x.zip" to "cosmo-x.sb3".
+1.) Download this repository to your local device by cloning it or some other method. You will want the folder titled "Cosmo X ...". 
+
+a.) **IF the folder is already in .sb3 format**, then you are welcome to create a shortcut to the file itself and move it somewhere desirable or move the .sb3 file somewhere else.
+
+b.) **IF the folder is in .zip format**. All you need to do is rename the extension from ".zip" to ".sb3" For example: "cosmo-x.zip" to "cosmo-x.sb3". Then follow step a.
+
+c.) **IF the folder is NOT in .zip format and NOT in .sb3 format**, then ZIP the "Cosmo X..." folder using a 3rd-party software, then follow step b, then step a.
+
+2.) You are done! You may now open the file to play it using Scratch Offline Editor, Turbowarp, or another .sb3 file reading program. 
         
 ## Usage
         
